@@ -1,1 +1,1 @@
-# ShareVolume
+This repository contains the implementation for fetching and displaying the shares outstanding for Ball Corporation (CIK: 0000009389). The application fetches data from the SEC API and dynamically updates the HTML content based on the provided CIK. The data is stored in a JSON file and is displayed in a visually appealing format.
